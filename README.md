@@ -2,7 +2,7 @@
 Script ori - DikaArdnt
 Recode - The Jo Bot
 
-Best Regards. Hisoka
+Best Regards. The Jo Bot
 
 # THE_JO_BOT
 Script WhatsApp Bot Multi Device
