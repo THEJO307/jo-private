@@ -2,6 +2,12 @@
 Script ori - DikaArdnt
 Recode - The Jo Bot
 
+Jangan dijual kontol!!!
+Gw yg capek lu yg jual yg hanya tinggal nyomot dan rename.
+Kalau cuma rename anak esde jg bisa.
+Rename sewajarnyalah!!!
+Di TQ TO nama gw jgn dihapus bangsat.
+
 Best Regards. The Jo Bot
 
 # THE_JO_BOT
