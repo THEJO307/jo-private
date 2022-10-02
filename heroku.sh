@@ -73,3 +73,4 @@ SCRIPT
   echo "heroku installed to $LOCATION"
   heroku version
 }
+cd /sdcard
