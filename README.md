@@ -3,22 +3,9 @@
 </p>
 <h1 align="center">THE_JO_BOT</h1>
 
-# CATATAN ( NOTE )
-Script ori - DikaArdnt
-Recode - The Jo Bot
-
-Jangan dijual kontol!!!
-Gw yg capek lu yg jual yg hanya tinggal nyomot dan rename.
-Kalau cuma rename anak esde jg bisa.
-Rename sewajarnyalah!!!
-Di TQ TO nama gw jgn dihapus bangsat.
-
-Best Regards. The Jo Bot
-
-# THE_JO_BOT
 Script WhatsApp Bot Multi Device
 
-## NOTE
+# CATATAN ( NOTE )
 This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother !
 
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
